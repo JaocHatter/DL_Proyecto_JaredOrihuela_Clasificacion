@@ -1,0 +1,16 @@
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+ultralytics>=8.0.100
+
+# Data handling
+numpy>=1.24.0
+pillow>=9.5.0
+opencv-python>=4.8.0
+matplotlib>=3.7.0
+
+# COCO tools
+pycocotools>=2.0.6
+
+# Utilities
+tqdm>=4.65.0
